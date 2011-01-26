@@ -1,0 +1,12 @@
+[submodule "ruby-on-rails-tmbundle"]
+	path = ruby-on-rails-tmbundle
+	url = https://github.com/drnic/ruby-on-rails-tmbundle.git
+[submodule "cucumber-tmbundle"]
+	path = cucumber-tmbundle
+	url = https://github.com/drnic/cucumber-tmbundle.git
+[submodule "rspec-tmbundle"]
+	path = rspec-tmbundle
+	url = https://github.com/dchelimsky/rspec-tmbundle.git
+[submodule "ruby-tmbundle"]
+	path = ruby-tmbundle
+	url = https://github.com/drnic/ruby-tmbundle.git
